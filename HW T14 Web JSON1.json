@@ -1,0 +1,156 @@
+{
+  "people": [
+    {
+      "person1": {
+        "id": "1",
+        "name": [
+          {
+            "first_name": "Олег",
+            "last_name": "Ратушний"
+          }
+        ],
+        "city_of_residence": [
+          {
+            "country": "Україна",
+            "region": "Полтавська область",
+            "town": "Полтва"
+          }
+        ],
+        "address": [
+          {
+            "street": "вулиця Набережна",
+            "building": "73",
+            "num_of_flat": "12"
+          }
+        ],
+        "contacts": [
+          {
+            "telephone_number": "+380688785965",
+            "email": "Oleg_Ratushniy@ukr.net",
+            "skype": "Oleg_Ratushniy"
+          }
+        ]
+      },
+      "person2": {
+        "id": "2",
+        "name": [
+          {
+            "first_name": "Ірина",
+            "last_name": "Сергієнко"
+          }
+        ],
+        "city_of_residence": [
+          {
+            "country": "Україна",
+            "region": "Львівська область",
+            "town": "Львів"
+          }
+        ],
+        "address": [
+          {
+            "street": "вулиця Івана Багряного",
+            "building": "4",
+            "num_of_flat": "1"
+          }
+        ],
+        "contacts": [
+          {
+            "telephone_number": "+380681124365",
+            "email": "Irina_Sergienko@ukr.net",
+            "skype": "Irina_Sergienko"
+          }
+        ]
+      },
+      "person3": {
+        "id": "3",
+        "name": [
+          {
+            "first_name": "Андрій",
+            "last_name": "Моренко"
+          }
+        ],
+        "city_of_residence": [
+          {
+            "country": "Україна",
+            "region": "Харківська область",
+            "town": "Харків"
+          }
+        ],
+        "address": [
+          {
+            "street": "вулиця Набережна",
+            "building": "5",
+            "num_of_flat": "17"
+          }
+        ],
+        "contacts": [
+          {
+            "telephone_number": "+380687963142",
+            "email": "Andriy_Morenko@ukr.net",
+            "skype": "Andriy_Morenko"
+          }
+        ]
+      },
+      "person4": {
+        "id": "4",
+        "name": [
+          {
+            "first_name": "Владислав",
+            "last_name": "Піддубний"
+          }
+        ],
+        "city_of_residence": [
+          {
+            "country": "Україна",
+            "region": "Вінницька область",
+            "town": "Вінниця"
+          }
+        ],
+        "address": [
+          {
+            "street": "проспект Центральний",
+            "building": "44",
+            "num_of_flat": "9"
+          }
+        ],
+        "contacts": [
+          {
+            "telephone_number": "+380987454698",
+            "email": "Vladislav_Piddubniy@gmail.com",
+            "skype": "Vladislav_Piddubniy"
+          }
+        ]
+      },
+      "person5": {
+        "id": "5",
+        "name": [
+          {
+            "first_name": "Вікторія",
+            "last_name": "Діденко"
+          }
+        ],
+        "city_of_residence": [
+          {
+            "country": "Україна",
+            "region": "Одеська область",
+            "town": "Одеса"
+          }
+        ],
+        "address": [
+          {
+            "street": "Одеський бульвар",
+            "building": "8",
+            "num_of_flat": "1"
+          }
+        ],
+        "contacts": [
+          {
+            "telephone_number": "+380687412369",
+            "email": "Viktoria_Didenko@gmail.com",
+            "skype": "Viktoria_Didenko"
+          }
+        ]
+      }
+    }
+  ]
+}
