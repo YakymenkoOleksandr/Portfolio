@@ -1,0 +1,126 @@
+<people>
+    <person1>
+        <id>
+            1
+        </id>
+        <name>
+            <first_name> Олег </first_name>
+            <last_name>  Ратушний </last_name>
+        </name>
+        <city_of_residence>
+            <country> Україна </country>
+            <region>  Полтавська область</region>
+            <town> Полтва </town>
+        </city_of_residence>
+        <address>
+            <street> вулиця Набережна </street>
+            <building> 73 </building>
+            <num_of_flat> 12</num_of_flat>
+        </address>
+        <contacts>
+            <telephone_number> +380688785965 </telephone_number>
+            <email> Oleg_Ratushniy@ukr.net </email>
+            <skype> Oleg_Ratushniy </skype>
+        </contacts>
+    </person1>
+
+    <person2>
+        <id>
+            2
+        </id>
+        <name>
+            <first_name> Ірина </first_name>
+            <last_name>  Сергієнко </last_name>
+        </name>
+        <city_of_residence>
+            <country> Україна </country>
+            <region> Львівська область</region>
+            <town> Львів </town>
+        </city_of_residence>
+        <address>
+            <street> вулиця Івана Багряного</street>
+            <building> 4 </building>
+            <num_of_flat> 1 </num_of_flat>
+        </address>
+        <contacts>
+            <telephone_number> +380681124365 </telephone_number>
+            <email> Irina_Sergienko@ukr.net </email>
+            <skype> Irina_Sergienko </skype>
+        </contacts>
+    </person2>
+
+    <person3>
+        <id>
+            3
+        </id>
+        <name>
+            <first_name> Андрій </first_name>
+            <last_name>  Моренко </last_name>
+        </name>
+        <city_of_residence>
+            <country> Україна </country>
+            <region> Харківська область </region>
+            <town> Харків </town>
+        </city_of_residence>
+        <address>
+            <street> вулиця Набережна</street>
+            <building> 5 </building>
+            <num_of_flat> 17 </num_of_flat>
+        </address>
+        <contacts>
+            <telephone_number> +380687963142 </telephone_number>
+            <email> Andriy_Morenko@ukr.net </email>
+            <skype> Andriy_Morenko </skype>
+        </contacts>
+    </person3>
+
+    <person4>
+        <id>
+            4
+        </id>
+        <name>
+            <first_name> Владислав </first_name>
+            <last_name>  Піддубний </last_name>
+        </name>
+        <city_of_residence>
+            <country> Україна </country>
+            <region> Вінницька область</region>
+            <town> Вінниця </town>
+        </city_of_residence>
+        <address>
+            <street> проспект Центральний </street>
+            <building> 44 </building>
+            <num_of_flat> 9 </num_of_flat>
+        </address>
+        <contacts>
+            <telephone_number> +380987454698 </telephone_number>
+            <email> Vladislav_Piddubniy@gmail.com</email>
+            <skype> Vladislav_Piddubniy </skype>
+        </contacts>
+    </person4>
+
+    <person5>
+        <id>
+            5
+        </id>
+        <name>
+            <first_name> Вікторія </first_name>
+            <last_name>  Діденко </last_name>
+        </name>
+        <city_of_residence>
+            <country> Україна </country>
+            <region> Одеська область </region>
+            <town> Одеса </town>
+        </city_of_residence>
+        <address>
+            <street> Одеський бульвар </street>
+            <building> 8 </building>
+            <num_of_flat> 1 </num_of_flat>
+        </address>
+        <contacts>
+            <telephone_number> +380687412369 </telephone_number>
+            <email> Viktoria_Didenko@gmail.com</email>
+            <skype> Viktoria_Didenko </skype>
+        </contacts>
+    </person5>
+</people>
